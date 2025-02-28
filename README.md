@@ -1,12 +1,33 @@
-# React + Vite
+# 🛒 ShopWebsite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ShopWebsite es una aplicación web para comercio electrónico desarrollada con React, JavaScript, CSS, HTML y PHP. Su objetivo es proporcionar una experiencia de compra fluida, rápida y segura tanto para usuarios como para administradores.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías utilizadas
+Frontend: React, JavaScript, HTML, CSS
+Backend: PHP
+Base de datos: PostgreSQL
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🎯 Características principales
+✅ Catálogo de productos dinámico
+✅ Carrito de compras interactivo
+✅ Sistema de autenticación de usuarios
+✅ Procesamiento de pedidos
+✅ Panel de administración para gestión de productos y ventas
 
-## Expanding the ESLint configuration
+## 🔧 Instalación
+Clona este repositorio:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+git clone https://github.com/JuanDavid1430/ShopWebsite.git
+cd ShopWebsite
+```
+Instala las dependencias del frontend:
+
+```bash
+npm install
+```
+
+Configura el backend en PHP y la base de datos
+
+## 💡 Contribuciones
+¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar ShopWebsite, no dudes en hacer un fork y enviar un pull request.
